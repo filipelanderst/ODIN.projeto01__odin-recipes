@@ -2,4 +2,24 @@
 
 [projeto01__odin-recipes — Link para a página do site](https://flx-lander7.github.io/ODIN.projeto01__odin-recipes/ )
 
+## Página inicial (apenas HTML)
 
+![Inicial-HTML](https://raw.githubusercontent.com/flx-lander7/ODIN.projeto01__odin-recipes/main/capturaDeTela-inicialApenasHTML.png)
+
+---
+
+## Página inicial (HTML e CSS)
+
+![Inicial-HTMLeCSS](https://raw.githubusercontent.com/flx-lander7/ODIN.projeto01__odin-recipes/main/capturaDeTela-inicialHTMLeCSS.png)
+
+---
+
+## Receitas, bolo de chocolate (apenas HTML)
+
+![Receitas-HTML](https://raw.githubusercontent.com/flx-lander7/ODIN.projeto01__odin-recipes/main/capturaDeTela-boloChocolateApenasHTML.png)
+
+---
+
+## Receitas, torta de maçã (HTML e CSS)
+
+![Receitas-HTMLeCSS](https://raw.githubusercontent.com/flx-lander7/ODIN.projeto01__odin-recipes/main/capturaDeTela-TortaMacaHTMLeCSS.png)
