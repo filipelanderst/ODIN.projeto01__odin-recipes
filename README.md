@@ -1,6 +1,8 @@
 # ODIN.projeto01__odin-recipes
 
-Projeto feito no curso __The Odin Project__
+Projeto feito no curso __The Odin Project__ 
+
+> __(Não Responsivo)__
 
 __Link da página:__ [https://flx-lander7.github.io/ODIN.projeto01__odin-recipes/ ](https://flx-lander7.github.io/ODIN.projeto01__odin-recipes/ )
 
